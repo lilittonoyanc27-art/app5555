@@ -1,0 +1,6 @@
+{
+  "name": "Aprende con Pedro",
+  "description": "Իսպաներենի անդրադարձ բայերի ինտերակտիվ ուսացման հավելված Պեդրոյի հետ (իսպաներեն-հայերեն)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
